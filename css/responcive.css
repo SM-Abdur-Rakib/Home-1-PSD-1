@@ -1,0 +1,171 @@
+
+
+@media (max-width: 1150px){
+
+.navbar-expand-lg .navbar-collapse {
+    margin: 0px -12px;
+}
+.banner .titel .btn  {
+    margin-left: 121px !important;
+    padding: 8px 22px !important;
+}
+.banner .titel h2 {
+    margin-bottom: 0px !important;
+}
+.banner .titel p {
+    margin-bottom: 40px !important;
+}
+.department p {
+
+    margin-top: 12px !important;
+}
+.about {
+    padding: 20px 0px !important;
+}
+.University {
+    text-align: center !important;
+}
+.University .title h2 {
+    margin-bottom: 23px !important;
+    }
+  .University {
+    padding: 30px 0px !important;
+}
+.footer .titel .fa {
+    font-size: 30px !important;
+}
+.footer .titel .fa span {
+    font-size: 14px !important;
+/*   */
+}
+
+@media (max-width: 992px){
+.header {
+    background-size: cover !important;
+}
+.banner .titel .btn {
+    margin-bottom: 0px !important;
+}
+.department h2 {
+    margin: 20px 0px !important;
+}
+.banner .titel {
+    margin: 10px 0px !important;
+}
+.banner .titel p {
+	font-size: 13px;
+    margin-bottom: 26px !important;
+}
+.University {
+    padding: 10px 0px !important;
+}
+.University .card .card-body h5 {
+line-height: 1 !important;
+}
+.footer .titel .fa {
+    font-size: 22px !important;
+}
+.footer .titel .fa span {
+    font-size: 12px !important;
+}
+.form-control {
+	width: 130% !important;
+	font-size: 14px !important;
+	}
+.footer .titel .fa {
+    font-size: 18px !important;
+}
+/*   */
+}
+@media (max-width:768px){
+.header {
+    background-size: cover !important;
+}
+.banner .titel p {
+    font-size: 13px;
+    margin-bottom: 10px !important;
+    font-size: 13px !important;
+}
+
+.banner .titel .btn {
+    margin-bottom: 13px !important;
+    font-size: 13px !important;
+    padding: 6px 10px !important;
+}
+.banner .titel h2 {
+    font-size: 26px !important;
+}
+.department h2 {
+    font-size: 26px !important;
+    }
+.department p {
+	font-size: 13px !important;
+    margin-top: 0px !important;
+}
+.department .card {
+    margin: 20px 0px !important;
+}
+.about {
+    text-align: center !important;
+}
+.title .Hours h4 {
+    margin: 0px 0px 0px !important;
+}
+.title .Courses h4 {
+    margin: 0px 0px 0px !important;
+}
+.title .Students h4 {
+
+    margin: 0px 0px 0px !important;
+}
+.University .title h2 {
+    margin-bottom: 10px !important;
+}
+.department .card {
+    margin: 20px 75px !important;
+}
+.footer .titel p {
+    font-size: 13px !important;
+}
+.main-footer .f1 p {
+    font-size: 13px !important;
+    margin: 0px !important;
+}
+.form-control {
+    width: 100% !important;
+    font-size: 14px !important;
+}
+.footer .titel .fa {
+    font-size: 14px !important;
+}
+/*   */
+}
+@media (max-width: 576px){
+	.header {
+    background-size: cover !important;
+}
+.banner .titel .btn {
+    font-size: 10px !important;
+    padding: 4px 7px !important;
+}
+.header .main-mano .btn {
+    margin-left: 124px !important;
+    padding: 4px 10px !important;
+    }
+    .banner .titel h2 {
+    font-size: 24px !important;
+}
+.department h2 {
+    font-size: 24px !important;
+}
+.footer .titel .fa {
+    font-size: 13px !important;
+}
+.footer .titel .fa span {
+    font-size: 11px !important;
+}
+.inner-footer h5 {
+    font-size: 15px !important;
+}
+/*   */
+}
